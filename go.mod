@@ -2,7 +2,7 @@ module github.com/codeindex2937/msi-builder
 
 go 1.18
 
-require github.com/codeindex2937/msi-helper v0.0.0-20230506134529-874d251118f4
+require github.com/codeindex2937/msi-helper v0.0.0-20230506153513-8b476ab45888
 
 require (
 	github.com/google/uuid v1.3.0 // indirect

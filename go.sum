@@ -1,5 +1,7 @@
 github.com/codeindex2937/msi-helper v0.0.0-20230506134529-874d251118f4 h1:ukkTroEZPoPWsNyNccYn9dp/0BSzBVAsUVz3Vw1M3KM=
 github.com/codeindex2937/msi-helper v0.0.0-20230506134529-874d251118f4/go.mod h1:jbsfMsJ6z+aWKRB65jZaCmzz7dnf0MrSzei10GY857A=
+github.com/codeindex2937/msi-helper v0.0.0-20230506153513-8b476ab45888 h1:2/hqa/Puzl8uhOBG3QGhdhagjqKqC3gIKnfsmd5yUsE=
+github.com/codeindex2937/msi-helper v0.0.0-20230506153513-8b476ab45888/go.mod h1:jbsfMsJ6z+aWKRB65jZaCmzz7dnf0MrSzei10GY857A=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 golang.org/x/exp v0.0.0-20230425010034-47ecfdc1ba53 h1:5llv2sWeaMSnA3w2kS57ouQQ4pudlXrR0dCgw51QK9o=

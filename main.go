@@ -106,6 +106,9 @@ func main() {
 	}
 
 	enableShortcut(h, script, comp, "service.exe", false)
+	if err := h.SetLanguage("cht"); err != nil {
+		log.Fatal(err)
+	}
 
 	if err := h.LaunchAppPostInstall(script, comp, "service.exe"); err != nil {
 		log.Fatal(err)
